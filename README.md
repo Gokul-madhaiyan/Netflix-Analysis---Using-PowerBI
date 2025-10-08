@@ -23,4 +23,4 @@ I created this Power BI dashboard to explore how Netflix content is distributed 
 
 ## Dash Board
 - Dashboard Interaction <a href="Screenshot 2025-10-08 161524.png">View Dash Board</a>
- <img width="1869" height="784" alt="Screenshot 2025-10-08 161524.png" src="https://github.com/user-attachments/assets/69532e25-7a5b-4df4-89db-795cc469bdf8" />
+ <img width="1869" height="784" alt="Screenshot 2025-10-08 161524.png" src="https://github.com/Gokul-madhaiyan/Netflix-Analysis---Using-PowerBI/blob/main/Screenshot%202025-10-08%20161524.png" />
