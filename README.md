@@ -22,4 +22,4 @@ I created this Power BI dashboard to explore how Netflix content is distributed 
 - Ratio of Movies vs TV Shows
 
 ## Dash Board
-- Dashboard Interaction <a href="Netflix OTT Analysis Screenshot.jpg">View Dash Board</a>
+- Dashboard Interaction <a href="Screenshot 2025-10-08 161524.png">View Dash Board</a>
