@@ -3,7 +3,8 @@ I created this Power BI dashboard to explore how Netflix content is distributed 
 
 ## Tools Used
 - Power BI: For data modeling, visualization, and dashboard creation
-- Dataset: Netflix content data (includes title, type, release date, rating, country, etc.)
+- Dataset: Netflix content data (includes title, type, release date, rating, country, etc.)Data set used
+- <a href="https://github.com/Gokul-madhaiyan/Netflix-Analysis---Using-PowerBI/blob/main/Power%20BI%20project%20-%20Netflix.pbix">Dataset</a>
 
 ## Key Features
 - Release Trends: Shows released by day of the week and year
@@ -13,15 +14,12 @@ I created this Power BI dashboard to explore how Netflix content is distributed 
 - Summary Stats: Total shows, types, average watch list, and more
 - Interactive Filters: Filter by month, year, country, and show type
 
-## Dashboard Preview
-- <a href="">Dataset</a>
-- ## Insights You Can Draw
+## Insights You Can Draw
 - Which day Netflix releases the most content
 - Most common content ratings
 - Growth of Netflix content over the years
 - Country-wise distribution of shows
 - Ratio of Movies vs TV Shows
-🙋‍♂️ About Me
-I'm Gokul, passionate about data analytics and storytelling through visuals. This project helped me sharpen my Power BI skills and understand content strategy from a business perspective.
 
-Let me know if you'd like a Tamil version or want help writing a project summary for LinkedIn or your resume!
+## Dash Board
+<img width="1869" height="784" alt="https://github.com/Gokul-madhaiyan/Netflix-Analysis---Using-PowerBI/blob/main/Netflix%20OTT%20Analysis%20Screenshot.jpg" />
