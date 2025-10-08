@@ -3,7 +3,7 @@ I created this Power BI dashboard to explore how Netflix content is distributed 
 
 ## Tools Used
 - Power BI: For data modeling, visualization, and dashboard creation
-- Dataset: Netflix content data (includes title, type, release date, rating, country, etc.)Data set used
+- Dataset: Netflix content data (includes title, type, release date, rating, country, etc.)
 - <a href="https://github.com/Gokul-madhaiyan/Netflix-Analysis---Using-PowerBI/blob/main/Power%20BI%20project%20-%20Netflix.pbix">Dataset</a>
 
 ## Key Features
